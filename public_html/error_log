@@ -1,0 +1,914 @@
+[29-Oct-2024 14:29:16 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:30:17 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:30:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:31:42 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:31:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:31:44 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:31:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 5
+[29-Oct-2024 14:32:39 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:32:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:32:42 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:32:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:50 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:54 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:56 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:57 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:36:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:38:47 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:38:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:38:48 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:38:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:40:47 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:40:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:40:48 UTC] PHP Warning:  require(/home/inverszu/public_html/bootstrap/autoload.php): Failed to open stream: No such file or directory in /home/inverszu/public_html/run_migrations.php on line 6
+[29-Oct-2024 14:40:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/inverszu/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/inverszu/public_html/run_migrations.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/run_migrations.php on line 6
+[01-Nov-2024 15:05:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\RewardController::index() in /home/inverszu/public_html/app/Http/Controllers/RewardController.php on line 24
+[01-Nov-2024 15:43:52 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\AdminRewardController as AdminRewardController because the name is already in use in /home/inverszu/public_html/routes/web.php on line 123
+[21-Nov-2024 14:09:45 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\User\UserRewardController as UserRewardController because the name is already in use in /home/inverszu/public_html/routes/web.php on line 11
+[21-Nov-2024 14:57:41 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\AdminRewardController\AdminRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/Admin/AdminRewardController.php on line 10
+[23-Nov-2024 15:55:44 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 9
+[23-Nov-2024 16:02:53 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\User\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Models/UserReward.php on line 11
+[24-Nov-2024 12:42:57 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\AdminRewardController, because the name is already in use in /home/inverszu/public_html/storage/framework/views/6ee7878a1563cb28362155c624322b6f47a974dd.php on line 12
+[24-Nov-2024 12:44:51 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\AdminRewardController, because the name is already in use in /home/inverszu/public_html/storage/framework/views/6ee7878a1563cb28362155c624322b6f47a974dd.php on line 12
+[24-Nov-2024 13:27:09 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:27:12 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:28:23 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:28:26 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:31:31 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:31:47 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:31:51 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:39:21 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 11
+[24-Nov-2024 13:39:24 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 11
+[24-Nov-2024 13:44:41 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[24-Nov-2024 13:44:44 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\UserRewardController, because the name is already in use in /home/inverszu/public_html/app/Http/Controllers/User/UserRewardController.php on line 10
+[06-Dec-2024 15:04:07 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(826): Illuminate\Routing\UrlGenerator->route()
+#1 /home/inverszu/public_html/app/Http/Helpers/helpers.php(48): route()
+#2 /home/inverszu/public_html/storage/framework/views/a753a5231f2a331e05115b1bc1edcccd182e64ea.php(45): setRoute()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(109): require('/home/inverszu/...')
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(110): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#16 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+
+Next Illuminate\View\ViewException: Route [index] not defined. (View: /home/inverszu/public_html/resources/views/errors/500.blade.php) in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException()
+#1 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#2 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#17 {main}
+  thrown in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 467
+[06-Dec-2024 15:04:10 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(826): Illuminate\Routing\UrlGenerator->route()
+#1 /home/inverszu/public_html/app/Http/Helpers/helpers.php(48): route()
+#2 /home/inverszu/public_html/storage/framework/views/a753a5231f2a331e05115b1bc1edcccd182e64ea.php(45): setRoute()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(109): require('/home/inverszu/...')
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(110): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#16 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+
+Next Illuminate\View\ViewException: Route [index] not defined. (View: /home/inverszu/public_html/resources/views/errors/500.blade.php) in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException()
+#1 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#2 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#17 {main}
+  thrown in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 467
+[06-Dec-2024 15:04:15 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(826): Illuminate\Routing\UrlGenerator->route()
+#1 /home/inverszu/public_html/app/Http/Helpers/helpers.php(48): route()
+#2 /home/inverszu/public_html/storage/framework/views/a753a5231f2a331e05115b1bc1edcccd182e64ea.php(45): setRoute()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(109): require('/home/inverszu/...')
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(110): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#16 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+
+Next Illuminate\View\ViewException: Route [index] not defined. (View: /home/inverszu/public_html/resources/views/errors/500.blade.php) in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:467
+Stack trace:
+#0 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException()
+#1 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(70): Illuminate\View\Engines\PhpEngine->evaluatePath()
+#2 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(195): Illuminate\View\Engines\CompilerEngine->get()
+#3 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(178): Illuminate\View\View->getContents()
+#4 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(147): Illuminate\View\View->renderContents()
+#5 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent()
+#7 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct()
+#8 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make()
+#9 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Routing\ResponseFactory->view()
+#10 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#11 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#12 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#13 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(233): Illuminate\Foundation\Exceptions\Handler->render()
+#14 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(210): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#15 /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#17 {main}
+  thrown in /home/inverszu/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 467
+[09-Dec-2024 00:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[09-Dec-2024 00:35:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[09-Dec-2024 13:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[09-Dec-2024 13:50:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[11-Dec-2024 20:37:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[11-Dec-2024 20:37:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[15-Dec-2024 00:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[15-Dec-2024 00:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[16-Dec-2024 10:13:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[22-Dec-2024 07:53:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[23-Dec-2024 02:20:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[23-Dec-2024 02:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[24-Dec-2024 17:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[25-Dec-2024 09:19:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[25-Dec-2024 09:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[28-Dec-2024 21:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[28-Dec-2024 21:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[29-Dec-2024 11:02:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[29-Dec-2024 11:02:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[30-Dec-2024 02:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Dec-2024 02:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Dec-2024 02:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Dec-2024 02:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Dec-2024 09:33:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[31-Dec-2024 19:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[31-Dec-2024 19:19:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[01-Jan-2025 08:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[01-Jan-2025 08:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[01-Jan-2025 20:48:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[01-Jan-2025 20:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[07-Jan-2025 21:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[07-Jan-2025 21:44:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[08-Jan-2025 06:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[08-Jan-2025 06:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[09-Jan-2025 20:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[09-Jan-2025 20:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[10-Jan-2025 02:20:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[10-Jan-2025 02:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[10-Jan-2025 17:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[10-Jan-2025 17:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[12-Jan-2025 14:39:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Jan-2025 14:39:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Jan-2025 14:39:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Jan-2025 14:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Jan-2025 00:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Jan-2025 00:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[13-Jan-2025 12:09:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Jan-2025 12:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[14-Jan-2025 15:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Jan-2025 15:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[14-Jan-2025 16:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Jan-2025 16:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[14-Jan-2025 20:20:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Jan-2025 20:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Jan-2025 20:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Jan-2025 20:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[16-Jan-2025 07:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[16-Jan-2025 07:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Jan-2025 18:02:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Jan-2025 18:02:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[17-Jan-2025 19:09:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Jan-2025 19:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Jan-2025 19:09:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Jan-2025 19:09:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[24-Jan-2025 20:47:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[24-Jan-2025 20:47:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[30-Jan-2025 22:12:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Jan-2025 22:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Jan-2025 22:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Jan-2025 22:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[02-Feb-2025 07:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[02-Feb-2025 07:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[03-Feb-2025 12:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Feb-2025 15:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Feb-2025 15:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[13-Feb-2025 15:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Feb-2025 15:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Feb-2025 15:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Feb-2025 15:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Feb-2025 07:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Feb-2025 07:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[20-Feb-2025 16:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[20-Feb-2025 16:13:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[20-Feb-2025 16:14:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[20-Feb-2025 16:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[21-Feb-2025 03:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[21-Feb-2025 03:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[23-Feb-2025 09:45:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[23-Feb-2025 09:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[23-Feb-2025 09:46:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[23-Feb-2025 09:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Feb-2025 03:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Feb-2025 03:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Feb-2025 03:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Feb-2025 03:13:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[13-Mar-2025 13:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[15-Mar-2025 17:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Mar-2025 07:27:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Mar-2025 07:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[26-Mar-2025 15:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Mar-2025 13:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[02-Apr-2025 15:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[04-Apr-2025 11:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[04-Apr-2025 11:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[05-Apr-2025 09:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[06-Apr-2025 05:47:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[06-Apr-2025 05:47:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[11-Apr-2025 07:56:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[11-Apr-2025 07:56:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[12-Apr-2025 11:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Apr-2025 11:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[12-Apr-2025 16:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[12-Apr-2025 16:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[14-Apr-2025 03:38:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Apr-2025 03:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[14-Apr-2025 14:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[14-Apr-2025 14:53:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[15-Apr-2025 14:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[15-Apr-2025 14:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[17-Apr-2025 01:14:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Apr-2025 01:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[17-Apr-2025 17:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[17-Apr-2025 17:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[19-Apr-2025 03:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[19-Apr-2025 17:22:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[19-Apr-2025 17:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[21-Apr-2025 12:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[21-Apr-2025 12:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[21-Apr-2025 20:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[21-Apr-2025 20:51:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[22-Apr-2025 03:34:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[22-Apr-2025 03:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[23-Apr-2025 11:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[23-Apr-2025 11:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[23-Apr-2025 20:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[23-Apr-2025 20:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[27-Apr-2025 01:37:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[27-Apr-2025 01:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[27-Apr-2025 17:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[27-Apr-2025 17:27:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/web.php on line 22
+[27-Apr-2025 17:28:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[29-Apr-2025 01:08:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[29-Apr-2025 01:08:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[29-Apr-2025 11:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[29-Apr-2025 11:31:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[30-Apr-2025 16:18:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[30-Apr-2025 16:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[02-May-2025 11:37:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[02-May-2025 11:37:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[03-May-2025 00:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[03-May-2025 12:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[03-May-2025 21:14:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[03-May-2025 21:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[07-May-2025 09:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[08-May-2025 13:00:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[08-May-2025 13:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/global.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/global.php on line 8
+[08-May-2025 13:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[23-May-2025 14:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-May-2025 11:22:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-May-2025 11:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[29-May-2025 04:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[29-May-2025 04:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[30-May-2025 20:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[02-Jun-2025 03:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[10-Jun-2025 05:11:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[10-Jun-2025 05:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11
+[10-Jun-2025 05:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/web.php on line 22
+[16-Jun-2025 11:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[19-Jun-2025 19:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Jun-2025 01:18:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/admin.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/admin.php on line 43
+[26-Jun-2025 01:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/inverszu/public_html/user.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/user.php on line 11

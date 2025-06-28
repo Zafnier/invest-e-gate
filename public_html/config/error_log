@@ -1,0 +1,16 @@
+[05-Nov-2024 12:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/inverszu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/config/cache.php on line 18
+[05-Nov-2024 12:18:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/inverszu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/config/cache.php on line 18
+[05-Nov-2024 13:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/inverszu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/config/cache.php on line 18
+[05-Nov-2024 13:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/inverszu/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/inverszu/public_html/config/cache.php on line 18
